@@ -56,12 +56,16 @@ namespace HydraVirus
                     TextFileMgr.TextMgr();
                     break;
                 case 2:
-                    string result = Path.GetTempPath();
-                    using (WebClient webClient = new WebClient())
+                   try
                     {
-                        webClient.DownloadFile("https://wallpaperaccess.com/full/844221.jpg", string.Format(result + "\\844221.jpg", Guid.NewGuid().ToString()));
+                        string result = Path.GetTempPath();
+                        using (WebClient webClient = new WebClient())
+                        {
+                            webClient.DownloadFile("https://wallpaperaccess.com/full/844221.jpg", string.Format(result + "\\844221.jpg", Guid.NewGuid().ToString()));
+                        }
+                        Set(result + "\\844221.jpg", Style.Stretched);
                     }
-                    Set(result + "\\844221.jpg", Style.Stretched);
+                    catch { }
                     break;
             }
         }
