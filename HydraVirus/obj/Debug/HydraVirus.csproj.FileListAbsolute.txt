@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\bin\Debug\HydraVirus.exe.config
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\bin\Debug\HydraVirus.exe
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\bin\Debug\HydraVirus.pdb
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.Form1.resources
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.Properties.Resources.resources
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.exe
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.pdb
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.Form2.resources
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.Form3.resources
+C:\Users\pc\source\repos\HydraVirus\HydraVirus\obj\Debug\HydraVirus.Form4.resources
